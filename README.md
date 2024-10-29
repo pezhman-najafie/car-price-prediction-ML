@@ -1,0 +1,2 @@
+# car-price-prediction-ML
+ This repository implements a machine learning model to predict car selling prices using various linear regression models, including Linear, Lasso, and Ridge regressions. It explores Min-Max Scaling and Standardization for feature scaling and evaluates models with metrics like MAE, MSE, RMSE, and R² score. Correlation analysis and visualizations are provided to understand feature relationships.
